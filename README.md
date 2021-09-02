@@ -4,7 +4,7 @@
 
 ## План занятий
 
-### Введение
+### [Введение](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)
 
 - Общая идея курса
 - Информация о курсе
