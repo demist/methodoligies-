@@ -5,7 +5,7 @@
 
 # План занятий
 
-## Неделя 1
+## :fire: Неделя 1
 
 ### [Введение](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)
 
