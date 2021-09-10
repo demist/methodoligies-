@@ -11,10 +11,14 @@
 
 ### [Введение](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)
 
+[*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
+
 - Общая идея курса
 - Информация о курсе
 
 ### [Лекция 1](https://github.com/demist/methodoligies-/blob/main/lecture1.pdf)
+
+[*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
 
 **Общие понятия о методологиях разработки ПО**
 
@@ -26,6 +30,8 @@
 	- Внутренние факторы
 
 ### [Лекция 2](https://github.com/demist/methodoligies-/blob/main/lecture2.pdf)
+
+[*запись лекции*](https://www.dropbox.com/s/v130e38tb3kfvrz/hsenismethodologies%20on%202021-09-10%2014-16.mp4?dl=0)
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
