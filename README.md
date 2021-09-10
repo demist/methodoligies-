@@ -7,7 +7,7 @@
 
 # План занятий
 
-## :fire: Неделя 1 (10 сентября)
+## :white_check_mark: Неделя 1 (10 сентября)
 
 ### [Введение](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)
 
@@ -47,7 +47,7 @@
         - Варианты поставки и развертывания
     - Сопровождение
 
-## Неделя 2 (24-25 сентября)
+## :fire: Неделя 2 (24-25 сентября)
 
 ### Лекция 3
 
@@ -220,4 +220,4 @@
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
 [1]:https://img.shields.io/badge/status-running-brightgreen
-[2]:https://progress-bar.dev/0/
+[2]:https://progress-bar.dev/15/
