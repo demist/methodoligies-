@@ -49,7 +49,7 @@
 
 ## :fire: Неделя 2 (24-25 сентября)
 
-### Лекция 3
+### [Лекция 3](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf)
 
 **Базовые методологии разработки ПО (ч.1)**
 
