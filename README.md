@@ -9,14 +9,18 @@
 
 ## Неделя 1 (10 сентября)
 
-### [Введение](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)
+### Введение
+
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)
 
 [*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
 
 - :white_check_mark: Общая идея курса
 - :white_check_mark: Информация о курсе
 
-### [Лекция 1](https://github.com/demist/methodoligies-/blob/main/lecture1.pdf)
+### Лекция 1
+
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture1.pdf)
 
 [*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
 
@@ -29,7 +33,9 @@
 	- Внешние факторы
 	- Внутренние факторы
 
-### [Лекция 2](https://github.com/demist/methodoligies-/blob/main/lecture2.pdf)
+### Лекция 2
+
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture2.pdf)
 
 [*запись лекции*](https://www.dropbox.com/s/v130e38tb3kfvrz/hsenismethodologies%20on%202021-09-10%2014-16.mp4?dl=0)
 
@@ -49,7 +55,9 @@
 
 ## :fire: Неделя 2 (24-25 сентября)
 
-### [Лекция 3](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf)
+### Лекция 3
+
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf)
 
 [*запись лекции*](https://www.dropbox.com/s/613dqi43gtfktm2/hsenismethodologies%20on%202021-09-24%2012-55.mp4?dl=0)
 
