@@ -51,6 +51,8 @@
 
 ### [Лекция 3](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf)
 
+[*запись лекции*](https://www.dropbox.com/s/613dqi43gtfktm2/hsenismethodologies%20on%202021-09-24%2012-55.mp4?dl=0)
+
 **Базовые методологии разработки ПО (ч.1)**
 
 - :white_check_mark: Каскадная модель
