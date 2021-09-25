@@ -5,6 +5,8 @@
 
 ## [Канал курса в telegram](https://t.me/methodologies21)
 
+## [Материалы по семинарам](https://drive.google.com/drive/folders/1YOnUkf0qx5MYCrOOPMs1xXwlXJN0n6AI?usp=sharing)
+
 # План занятий
 
 ## Неделя 1 (10 сентября)
