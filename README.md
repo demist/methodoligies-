@@ -5,6 +5,8 @@
 
 ## [Канал курса в telegram](https://t.me/methodologies21)
 
+## [Таблица с оценками](https://docs.google.com/spreadsheets/d/1Lw5ZOZgoEt87V9a7A6aExMtGWljpvj1EvolnkbEB7xc/edit?usp=sharing)
+
 ## [Материалы по семинарам](https://drive.google.com/drive/folders/1YOnUkf0qx5MYCrOOPMs1xXwlXJN0n6AI?usp=sharing)
 
 # План занятий
