@@ -13,33 +13,33 @@
 
 ## :white_check_mark: Неделя 1 (10 сентября)
 
-### :white_check_mark: Введение
+### Введение
 
 [*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf)/[*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
 
-- :white_check_mark: Общая идея курса
-- :white_check_mark: Информация о курсе
+- Общая идея курса
+- Информация о курсе
 
-### :white_check_mark: Лекция 1
+### Лекция 1
 
 [*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture1.pdf)/[*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
 
 **Общие понятия о методологиях разработки ПО**
 
-- :white_check_mark: Что такое методология разработки ПО
+- Что такое методология разработки ПО
 	- Общее понятие
 	- Основные элементы
-- :white_check_mark: Факторы, влияющие на выбор методологии
+- Факторы, влияющие на выбор методологии
 	- Внешние факторы
 	- Внутренние факторы
 
-### :white_check_mark: Лекция 2
+### Лекция 2
 
 [*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture2.pdf)/[*запись лекции*](https://www.dropbox.com/s/v130e38tb3kfvrz/hsenismethodologies%20on%202021-09-10%2014-16.mp4?dl=0)
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
-- :white_check_mark: Этапы жизненного цикла проектирования, реализации и внедрения ПО
+- Этапы жизненного цикла проектирования, реализации и внедрения ПО
     - Формирование требований
     - Разработка концепции
     - Техническое задание
@@ -53,22 +53,22 @@
 
 ## :white_check_mark: Неделя 2 (24-25 сентября)
 
-### :white_check_mark: Лекция 3
+### Лекция 3
 
 [*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf)/[*запись лекции*](https://www.dropbox.com/s/613dqi43gtfktm2/hsenismethodologies%20on%202021-09-24%2012-55.mp4?dl=0)
 
 **Базовые методологии разработки ПО (ч.1)**
 
-- :white_check_mark: Каскадная модель
+- Каскадная модель
 	- Общее описание
 	- Хорошие примеры
 	- Плохие примеры
-- :white_check_mark: V-модель
+- V-модель
 	- Общее описание
 	- Хорошие примеры
 	- Плохие примеры
 
-### :white_check_mark: Семинар 1
+### Семинар 1
 
 - Проект
 	- Характеристики проекта
@@ -80,7 +80,7 @@
 
 ## :white_check_mark: Неделя 3 (8-9 октября)
 
-### :white_check_mark: Семинар 2
+### Семинар 2
 
 - Риски. Категоризация
 - Управление рисками
