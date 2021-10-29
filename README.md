@@ -55,7 +55,7 @@
 
 ### Лекция 3
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf) / [*запись лекции*](https://www.dropbox.com/s/613dqi43gtfktm2/hsenismethodologies%20on%202021-09-24%2012-55.mp4?dl=0)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture3.pdf) / [*запись лекции*](https://youtu.be/ONKpnFnDd-s)
 
 **Базовые методологии разработки ПО (ч.1)**
 
