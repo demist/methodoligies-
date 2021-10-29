@@ -91,7 +91,7 @@
 
 ### Лекция 4
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture4.pdf) / [*запись лекции*](https://www.dropbox.com/s/neu02n63z118lrn/hsenismethodologies%20on%202021-10-29%2013-01.mp4?dl=0)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture4.pdf) / [*запись лекции*](https://youtu.be/kDNReodrEs8)
 
 **Базовые методологии разработки ПО (ч.1 / продолжение)**
 
