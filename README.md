@@ -15,14 +15,14 @@
 
 ### Введение
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf) / [*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture0.pdf) / [*запись лекции*](https://youtu.be/OiNq8EtNCpU)
 
 - Общая идея курса
 - Информация о курсе
 
 ### Лекция 1
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture1.pdf) / [*запись лекции*](https://www.dropbox.com/s/ybmj6y5akur2rnc/hsenismethodologies%20on%202021-09-10%2012-55.mp4?dl=0)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture1.pdf) / [*запись лекции*](https://youtu.be/OiNq8EtNCpU)
 
 **Общие понятия о методологиях разработки ПО**
 
