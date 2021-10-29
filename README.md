@@ -35,7 +35,7 @@
 
 ### Лекция 2
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture2.pdf) / [*запись лекции*](https://www.dropbox.com/s/v130e38tb3kfvrz/hsenismethodologies%20on%202021-09-10%2014-16.mp4?dl=0)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture2.pdf) / [*запись лекции*](https://youtu.be/A2LzoHu-O2s)
 
 **Жизненный цикл проектирования, разработки и внедрения ПО**
 
