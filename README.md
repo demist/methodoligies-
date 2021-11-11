@@ -117,6 +117,8 @@
 
 ### Лекция 5
 
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture5.pdf)
+
 **Базовые методологии разработки ПО (ч. 2)**
 
 - Спиральная модель
