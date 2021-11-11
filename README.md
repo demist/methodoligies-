@@ -87,7 +87,7 @@
 - Стейкхолдеры. Классификация
 - Контекст и scope проекта
 
-## :fire: Неделя 4 (29-30 октября)
+## :white_check_mark: Неделя 4 (29-30 октября)
 
 ### Лекция 4
 
@@ -240,4 +240,4 @@
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
 [1]:https://img.shields.io/badge/status-running-brightgreen
-[2]:https://progress-bar.dev/23/
+[2]:https://progress-bar.dev/31/
