@@ -117,7 +117,7 @@
 
 ### Лекция 5
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture5.pdf)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture5.pdf) / [*запись лекции*](https://youtu.be/01OB7015Jqg)
 
 **Базовые методологии разработки ПО (ч. 2)**
 
