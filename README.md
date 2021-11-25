@@ -141,6 +141,8 @@
 
 **Семейство гибких методологий**
 
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture6.pdf)
+
 - Agile-манифест
 - Scrum
 - Kanban
