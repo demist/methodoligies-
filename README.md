@@ -141,7 +141,7 @@
 
 **Семейство гибких методологий**
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture6.pdf)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture6.pdf) / [*запись лекции*](https://youtu.be/zgusiPbo26Q)
 
 - Общее понятие о семействе гибких методологий
 - Agile-манифест
