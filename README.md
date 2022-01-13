@@ -171,6 +171,8 @@
 
 **CI/CD**
 
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture7.pdf)
+
 - Понятие о CI/CD/CD
 - Зачем это вообще нужно? 
 - Как это устроено?
