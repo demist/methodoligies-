@@ -171,7 +171,7 @@
 
 **CI/CD**
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture7.pdf)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture7.pdf) / [*запись лекции*](https://youtu.be/SOyjvL7nTtI)
 
 - Понятие о CI/CD/CD
 - Зачем это вообще нужно? 
