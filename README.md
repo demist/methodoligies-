@@ -200,7 +200,7 @@
 
 **Принципы проектирования ПО, ч.1**
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture8.pdf)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture8.pdf) / [*запись лекции*](https://youtu.be/fknbLwme0Fg)
 
 - Что такое архитектура ПО? 
 - Что такое проектирование ПО?
