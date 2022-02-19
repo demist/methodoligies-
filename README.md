@@ -222,6 +222,8 @@
 
 **Принципы проектирования ПО, ч.2**
 
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture9.pdf)
+
 - Принципы SOLID
 - Закон Деметры
 - YAGNI
