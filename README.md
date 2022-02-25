@@ -222,7 +222,7 @@
 
 **Принципы проектирования ПО, ч.2**
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture9.pdf)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture9.pdf) / [*запись лекции*](https://youtu.be/TvxfTEAZNIc)
 
 - Принципы SOLID
 - Закон Деметры
