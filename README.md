@@ -230,13 +230,13 @@
 - DRY / DIE
 - KISS
 
-## :fire: Неделя 11 (11-12 марта)
+## :white_check_mark: Неделя 11 (11-12 марта)
 
 ### Лекция 10
 
 **Инструменты моделирования и проектирования - UML**
 
-[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture10.pdf)
+[*слайды*](https://github.com/demist/methodoligies-/blob/main/lecture10.pdf) / [*запись лекции*](https://t.me/methodologies21/26)
 
 - Что такое UML?
 - Базовое понятие о нотации UML
@@ -258,5 +258,5 @@
 *Оценка = Округление(0,4\*Пр + 0,6\*Экз) = Округление(0,1\*З1 + 0,1\*З2 + 0,1\*З3 + 0,1\*З4 + 0,6\*Экз)*
 
 [0]:https://img.shields.io/badge/year-2021%2F2022-blue
-[1]:https://img.shields.io/badge/status-running-brightgreen
-[2]:https://progress-bar.dev/91/
+[1]:https://img.shields.io/badge/status-exam-red
+[2]:https://progress-bar.dev/100/
